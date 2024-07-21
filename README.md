@@ -12,7 +12,7 @@ Welcome to my Snake Game! This is my implementation of the classic Snake game us
 ## 🛠️ Installation
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/snake-game.git
+   git clone https://github.com/kiruthikasaminathan/LGMVIP-Python-Task-Number/blob/main/Snake%20Game.py
 2.Navigate to the project directory
    cd snake-game
 3.Run the game:
