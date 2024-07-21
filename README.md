@@ -1,4 +1,4 @@
-# LGMVIP-Python-Task-Number
+# LGMVIP-Python-Task-2
 # 🐍 Snake Game
 
 Welcome to my Snake Game! This is my implementation of the classic Snake game using Python. This project is a part of my LetsGrowMore internship tasks. Enjoy playing the game and feel free to contribute or provide feedback!
